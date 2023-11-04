@@ -13,12 +13,3 @@ window.addEventListener('DOMContentLoaded', () => {
 })
 
 
-
-// setTimeout (function () {
-//     alert('Hi')
-// }, 1000)
-
-
-// setInterval(function () {
-//     alert('Hello')
-// }, 2000)
